@@ -1,0 +1,16 @@
+{
+    "25MEI10023": {
+        "name": "Raushan Kumar",
+        "semesters": {
+            "Fall Semester 2025-26": {
+                "CSE1001": {
+                    "course_name": "Problem solving and programming",
+                    "credits": 4.0,
+                    "marks": 30.0,
+                    "grade": "F",
+                    "grade_point": 0
+                }
+            }
+        }
+    }
+}
